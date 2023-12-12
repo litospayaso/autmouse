@@ -1,0 +1,15 @@
+{
+  "author": "Angel hita",
+  "license": "GNU",
+  "name": "autmouse",
+  "version": "1.0.0",
+  "description": "Automatic mouse movement script to prevent computer shutdown",
+  "bin": {
+    "autmouse": "bin/autmouse.js"
+  },
+  "main" : "./lib/index.js",
+  "preferGlobal": true,
+  "dependencies": {
+    "@nut-tree/nut-js": "^3.1.1"
+  }
+}
