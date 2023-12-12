@@ -5,11 +5,11 @@ Library for moving the cursor every 4 minutes to prevent shutdown.
 ## installation
 
 ```shell
-npm install -g automouse
+npm install -g autmouse
 ```
 
 ## execution
 
 ```shell
-automouse
+autmouse
 ```
